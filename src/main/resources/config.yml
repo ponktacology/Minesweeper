@@ -1,0 +1,4 @@
+mine-field:
+  size: 27
+  bomb-amount: 4
+multiplier_addition_per_cell: 0.2

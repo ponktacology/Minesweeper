@@ -1,0 +1,9 @@
+name: Minesweeper
+version: '${version}'
+main: me.ponktacology.minesweeper.minesweeper.Minesweeper
+api-version: 1.16
+softdepend: [ Vault ]
+authors: [ ponktacology ]
+description: The ultimate minesweeper gambling game
+commands:
+  mines:
