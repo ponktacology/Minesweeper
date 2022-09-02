@@ -34,4 +34,4 @@ Then you need to set Minesweeper's economy hook in your plugin's onEnable method
 ```java
 Minesweeper.getMinesweeper().setEconomyHook(new YourCustomEconomyHook());
 ```
-![](img/GIF 9-2-2022 4-22-25 PM.gif)
+![](https://github.com/ponktacology/Minesweeper/blob/master/img/GIF%209-2-2022%204-22-25%20PM.gif)
